@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>issuer</key>
+	<string>https://auth.vanbeeklabs.com/oauth2/aus73ogndq7vL5lYJ1t7</string>
+	<key>clientId</key>
+	<string>0oa2v1ak7jdbFdd5n1t7</string>
+	<key>redirectUri</key>
+	<string>com.okta.sdkvanbeektech:/openid</string>
+	<key>scopes</key>
+	<array>
+		<string>offline_access</string>
+		<string>openid</string>
+		<string>profile</string>
+	</array>
+</dict>
+</plist>
